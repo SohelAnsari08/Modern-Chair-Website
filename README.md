@@ -1,5 +1,4 @@
 # Modern-Chair-Website
-<hr>
 I have created a modern chair using advance css and html. 
 <br>
 <ol>
